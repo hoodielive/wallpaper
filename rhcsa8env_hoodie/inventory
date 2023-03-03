@@ -1,0 +1,6 @@
+[repo]
+repo.egun.oyeku.lab ansible_host=10.0.9.149 ansible_user=vagrant ansible_ssh_pass=vagrant ansible_python_interpreter=/usr/bin/python3
+[server1]
+server1.egun.oyeku.lab ansible_host=10.0.9.150 ansible_user=vagrant ansible_ssh_pass=vagrant ansible_python_interpreter=/usr/bin/python3
+[server2]
+server2.egun.oyeku.lab ansible_host=10.0.9.151 ansible_user=vagrant ansible_ssh_pass=vagrant ansible_python_interpreter=/usr/bin/python3
